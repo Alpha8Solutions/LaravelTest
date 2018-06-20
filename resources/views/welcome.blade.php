@@ -5,6 +5,7 @@
       <title>Incollab | We build what you dream</title>
       <link href="{{ asset('css/gradients.css') }}" rel="stylesheet" type="text/css">
       <link href="{{ asset('css/style.css') }}" rel="stylesheet" type="text/css">
+      <link rel="shortcut icon" type="image/png" href="img/favicon.png">
     </head>
 
     <!-- <body class="">
