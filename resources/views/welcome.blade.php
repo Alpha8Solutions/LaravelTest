@@ -7,9 +7,9 @@
       <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
       <title>Incollab | We build what you dream</title>
       <link href="{{ asset('css/gradients.css') }}" rel="stylesheet" type="text/css">
-      <link href="{{ asset('css/style.css') }}" rel="stylesheet" type="text/css">
+      <link href="{{ asset('css/style.comp.css') }}" rel="stylesheet" type="text/css">
       <link rel="shortcut icon" type="image/png" href="img/favicon.png">
-    </head>type="text/javascript" src="{{ asset('js/set-background.js') }}"></script>
+    </head>
     </body> 
     <body>
         <div class="navigation">
